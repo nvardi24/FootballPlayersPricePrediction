@@ -8,13 +8,13 @@ Webscraped (with BeautifulSoup & Selenium) around 8,000 footballers' data from S
 Concat all information to one database
 
 # Data Cleaning
-Exploring & improving the data
-Format normalization
-Duplicates & nulls handling
+Exploring & improving the data, 
+format normalization, 
+duplicates & nulls handling
 
 # Visualisation
 Explaining the data through graphs
-Build scatterplots that shows the prediction
+and creating scatterplots that shows the prediction
 # Machine Learning
 Predict the market value in euros of FIFA football playets according to their stats.
-Used regression models such as Linear Regression, Polynomial Regression.
+ Used regression models such as Linear Regression, Polynomial Regression.
